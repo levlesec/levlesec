@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @mbkore
+- 👀 reverse engineering, vulnerability research
+- 🌱 aarch64
+- 💞️ mobile device anti-forensics
+- 📫 level@korelogic.com
