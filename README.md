@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Matt Bergin (@thatguylevel)
 - 👀 reverse engineering, vulnerability research
-- 🌱 aarch64 & x86
+- 🌱 aarch64 & x86_64
 - 💞️ anti-forensics & embedded devices
 - 📫 level@protonmail.ch
