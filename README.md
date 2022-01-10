@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Matt Bergin (@mbkore)
+- 👋 Hi, I’m Matt Bergin (@thatguylevel)
 - 👀 reverse engineering, vulnerability research
 - 🌱 aarch64 & x86
-- 💞️ mobile device anti-forensics
-- 📫 level@korelogic.com
+- 💞️ anti-forensics & embedded devices
+- 📫 level@protonmail.ch
